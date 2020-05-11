@@ -30,7 +30,7 @@ Journal of Neuroscience 2 January 2013, 33 (1) 17-25; DOI: https://doi.org/10.15
 CODE DESCRIPTION:
 
 **Model network structure**
-![Architecture of the model](image/model.jpg "Architecture of the model")
+![Architecture of the model](image/model.png "Architecture of the model")
 
 The model consisted of local excitatory (E) and inhibitory (I) components and a global (G) component. The local components provided input to each other (WEI and WIE) and to themselves (WEE and WII). The global component was driven by the E component (WEG), and provided excitation to both E and I (WGE and WGI, respectively). Both E and I were driven by external input, IE and II. Red indicates excitatory input or connections; blue indicates inhibition.
 
