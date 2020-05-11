@@ -1,5 +1,5 @@
 # gamma_model
-matlab code for recurrent model to simulate gamma oscillation
+Matlab code for recurrent model to simulate gamma oscillations
 
 Copyright (C) 2013 Xiaoxuan Jia, Dajun Xing and Adam Kohn
 
